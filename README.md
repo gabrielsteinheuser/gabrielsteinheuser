@@ -16,7 +16,10 @@ Busco minha primeira oportunidade profissional na área de tecnologia, com inter
 
 ## Projetos em destaque
 
-### [Arena Viva](https://github.com/gabrielsteinheuser/arena-viva)
+### [Arena Viva — projeto em equipe com gDorigon](https://github.com/gDorigon/projeto-arena)
+Projeto de reservas para arenas esportivas desenvolvido em colaboração com [gDorigon](https://github.com/gDorigon). **Repositório privado:** o código está disponível apenas para pessoas autorizadas. A demonstração pública abaixo é uma versão separada.
+
+### [Arena Viva — demonstração pública](https://github.com/gabrielsteinheuser/arena-viva)
 Painel responsivo para gestão de arenas esportivas, com reservas, agenda, clientes, quadras e preços. Desenvolvido com React, JavaScript, Vite e persistência local.
 
 ### [Steinheuser Web — Portfólio](https://github.com/gabrielsteinheuser/steinheuser-portfolio)
@@ -34,4 +37,7 @@ Registro da minha evolução acadêmica em lógica de programação, algoritmos 
 
 ## Contato
 
-Você pode entrar em contato comigo pelo próprio GitHub ou acompanhar meus projetos nos repositórios acima.
+- [LinkedIn](https://www.linkedin.com/in/gabriel-steinheuser-aa7962303/)
+- [Steinheuser Web no Instagram](https://www.instagram.com/steinheuser.web/)
+- [Repositórios no GitHub](https://github.com/gabrielsteinheuser?tab=repositories)
+
